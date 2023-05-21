@@ -1,6 +1,6 @@
 /*
 --Music_database
---Skills used: Joins, CTE's, Temp Tables, Aggregate Functions
+--Skills used: Joins, CTE's or Temp Tables, Aggregate Functions
 /*
 
 
